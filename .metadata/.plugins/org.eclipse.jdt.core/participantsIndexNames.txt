@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\work\sts-4.19.1.RELEASE-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2124729210.index
+\Exam1\src\main\java
+C:\work\sts-4.19.1.RELEASE-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3284215036.index
+\Exam1\src\main\java
